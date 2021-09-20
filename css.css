@@ -1,0 +1,26 @@
+
+body
+{
+background-color: burlywood ;
+} 
+h1
+{
+   font-size: "12";
+    text-align: center ;
+    color: cornsilk;
+}
+h3
+{
+text-align: center;
+color: cornsilk;
+font-family: Helvetica;
+}
+img{
+    
+   margin-left: 570px;
+}
+
+.video1
+{
+margin-left: 100px;
+}
